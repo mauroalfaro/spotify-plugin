@@ -1,4 +1,4 @@
-package com.malfaro.spotify_plugin;
+package com.alfarosoft.spotifyplugin;
 
 import org.junit.Test;
 
